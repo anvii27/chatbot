@@ -1,19 +1,19 @@
-# 💬 Chatbot template
+Mental Health Chatbot
 
-A simple Streamlit app that shows how to build a chatbot using OpenAI's GPT-3.5.
+A simple Streamlit app demonstrating how to build a chatbot using OpenAI's GPT-3.5.
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://chatbot-template.streamlit.app/)
 
-### How to run it on your own machine
+Features
 
-1. Install the requirements
+Conversational AI powered by OpenAI GPT-3.5.
 
-   ```
-   $ pip install -r requirements.txt
-   ```
+Simple and clean Streamlit interface.
 
-2. Run the app
+Easy to deploy locally or on Streamlit Cloud.
 
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+Fully customizable for your own use case or dataset.
+
+Contributing
+
+Contributions are welcome! Feel free to open issues or submit pull requests to improve the chatbot template.
